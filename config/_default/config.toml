@@ -1,7 +1,7 @@
-baseurl = "https://coding-blog-f519d.firebaseapp.com/"
+baseurl = "https://samanb.dev"
 languageCode = "en-us"
 paginate = 5
-title = "Saman's Cloud Development Blog"
+title = "Saman Badakhshan"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
