@@ -22,3 +22,19 @@ url = "https://twitter.com/saman_mb"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/saman.badak/"
+
+[social.params]
+icon = "brand-instagram"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/samanb1/"
+
+[social.params]
+icon = "brand-linkedin"
