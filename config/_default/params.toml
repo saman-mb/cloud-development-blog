@@ -54,8 +54,8 @@ limit = 10
 type = "toc"
 
 [opengraph.twitter]
-site = ""
-card = "summary_large_image"
+site = "saman_mb"
+card = "summary"
 
 [defaultImage.opengraph]
 enabled = false
