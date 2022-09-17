@@ -1,4 +1,4 @@
-baseurl = "https://samanb.dev"
+baseurl = "https://cloudblog.dev"
 languageCode = "en-uk"
 paginate = 5
 title = "The Cloud Blog"
