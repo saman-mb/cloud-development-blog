@@ -1,7 +1,7 @@
 baseurl = "https://samanb.dev"
-languageCode = "en-us"
+languageCode = "en-uk"
 paginate = 5
-title = "Saman Badakhshan"
+title = "Cloud Dev Blog"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar

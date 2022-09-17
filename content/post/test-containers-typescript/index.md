@@ -3,7 +3,7 @@ title: Docker Tescontainers with TypeScript
 description: A walkthrough of how to use Docker Testcontainers in any Typescript based project.
 slug: test-containers-typescript
 date: 2022-03-06 00:00:00+0000
-image: cover.png
+image: cover.jpg
 draft: true
 categories: 
   - containers
@@ -14,13 +14,24 @@ categories:
   - testing
 ---
 
+- create react app with simple UI that shows some information populated by post request 
+- express server post with required params, path and body being validated 
+- maybe express server is using a redis DB or something to store the post 
+
+### Outline 
+
+- set the scene, app, backend, 
+- what why testcontainers 
+- what why system test / smoke test 
+
 ### Intro
 
 Exaplin what its about
 
 ### Install Dependencies 
 
-WIP
+- docker
+- react 
 
 ### Setup Base Project (React + Jest maybe)
 

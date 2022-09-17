@@ -1,6 +1,6 @@
 ---
-title: Containers
-description: Topics about docker containers 
+title: TypeScript
+description: The TS programming language 
 image:
 
 # Badge style
